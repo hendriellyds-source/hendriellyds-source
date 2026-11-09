@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hendriellyds-source/hendriellyds-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Hendrielly! 👋
 
-Here are some ideas to get you started:
+### Desenvolvedora de Sistemas | Python • FastAPI • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Transformando desafios de negócio em soluções digitais.**
+
+![Desenvolvimento](https://img.shields.io/badge/Desenvolvimento-0F172A?style=flat-square&labelColor=0F172A&color=13B8B1) ![Automações](https://img.shields.io/badge/Automações-2563EB?style=flat-square) ![Sistemas Web](https://img.shields.io/badge/Sistemas_Web-7C3AED?style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrielly-de-souza-530892219/)
+[![Drillyx One](https://img.shields.io/badge/Drillyx_One-12B8B1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drillyxone/)
+
+</div>
+
+---
+
+### 👩‍💻 Sobre mim
+
+Sou desenvolvedora com experiência prática na criação de **sistemas de gestão, automações e aplicações web**. Gosto de compreender os processos de um negócio e transformá-los em ferramentas que simplificam rotinas, organizam informações e apoiam decisões.
+
+Na **Drillyx One**, desenvolvo soluções digitais sob medida, combinando tecnologia, visão de processos e atenção à experiência de quem utiliza cada sistema.
+
+- 🔧 **Foco:** backend, sistemas web, automações e melhoria de processos.
+- 📊 **Interesses:** gestão operacional, dashboards, integrações e soluções para negócios.
+- 📍 **Localização:** Santa Catarina, Brasil.
+
+### 🛠️ Tecnologias e ferramentas
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FACC15)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+### 🚀 Projetos selecionados
+
+#### [Sistema de Gestão Operacional — Demo](https://github.com/hendriellyds-source/sistema-gestao-operacional)
+
+Aplicação web para centralizar processos operacionais, incluindo **agenda e equipes, RH, frota, financeiro, documentos e permissões**. O repositório público apresenta dados fictícios, modo de demonstração local, documentação de arquitetura e testes automatizados.
+
+**Stack:** Python · FastAPI · JavaScript · SQLite · Docker · Pytest
+
+[Ver código e documentação](https://github.com/hendriellyds-source/sistema-gestao-operacional)
+
+#### [Elizabete Prado Arquitetura](https://elizabetepradoarquiteta.netlify.app/)
+
+Landing page para apresentação profissional de serviços de arquitetura, com foco em identidade visual, navegação e experiência responsiva.
+
+[Ver projeto online](https://elizabetepradoarquiteta.netlify.app/)
+
+#### [Shopping Náutico](https://aluguelshoppingnautico.netlify.app/)
+
+Landing page comercial voltada à apresentação de serviços e à comunicação com potenciais clientes.
+
+[Ver projeto online](https://aluguelshoppingnautico.netlify.app/)
+
+---
+
+<div align="center">
+
+### Vamos nos conectar?
+
+Estou sempre interessada em projetos que unam **tecnologia, organização e impacto real nos negócios**.
+
+[LinkedIn](https://www.linkedin.com/in/hendrielly-de-souza-530892219/) · [Drillyx One](https://www.instagram.com/drillyxone/) · [GitHub](https://github.com/hendriellyds-source)
+
+</div>
