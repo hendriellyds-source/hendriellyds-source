@@ -9,7 +9,7 @@
 ![Desenvolvimento](https://img.shields.io/badge/Desenvolvimento-0F172A?style=flat-square&labelColor=0F172A&color=13B8B1) ![Automações](https://img.shields.io/badge/Automações-2563EB?style=flat-square) ![Sistemas Web](https://img.shields.io/badge/Sistemas_Web-7C3AED?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hendrielly-de-souza-530892219/)
-[![Drillyx One](https://img.shields.io/badge/Drillyx_One-12B8B1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drillyxone/)
+[![Drillyx ONE — Código](https://img.shields.io/badge/Drillyx_ONE-12B8B1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hendriellyds-source/drillyx-one-website) [![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drillyxone/)
 
 </div>
 
@@ -42,15 +42,23 @@ Na **Drillyx One**, desenvolvo soluções digitais sob medida, combinando tecnol
 
 #### [Sistema de Gestão Operacional — Demo](https://github.com/hendriellyds-source/sistema-gestao-operacional)
 
-Aplicação web para centralizar processos operacionais, incluindo **agenda e equipes, RH, frota, financeiro, documentos e permissões**. O repositório público apresenta dados fictícios, modo de demonstração local, documentação de arquitetura e testes automatizados.
+Aplicação web que centraliza **agenda, equipes, RH, frota, financeiro e permissões**. Case técnico com FastAPI, dados fictícios, Docker e testes automatizados. A demonstração pública permite explorar os módulos em modo somente leitura.
 
 **Stack:** Python · FastAPI · JavaScript · SQLite · Docker · Pytest
 
-[Ver código e documentação](https://github.com/hendriellyds-source/sistema-gestao-operacional)
+[Ver demonstração online](https://gestao-operacional-demo-ypoh.onrender.com/login) · [Código e documentação](https://github.com/hendriellyds-source/sistema-gestao-operacional)
+
+#### [Drillyx ONE — Website & Portfólio](https://github.com/hendriellyds-source/drillyx-one-website)
+
+Landing page institucional da Drillyx ONE com identidade visual própria, design responsivo, animações e apresentação de projetos comerciais e de software.
+
+**Stack:** HTML · CSS · JavaScript
+
+[Explorar o repositório](https://github.com/hendriellyds-source/drillyx-one-website)
 
 #### [Elizabete Prado Arquitetura](https://elizabetepradoarquiteta.netlify.app/)
 
-Landing page para apresentação profissional de serviços de arquitetura, com foco em identidade visual, navegação e experiência responsiva.
+Landing page para apresentação de serviços de arquitetura, com foco em identidade visual, navegação e experiência responsiva.
 
 [Ver projeto online](https://elizabetepradoarquiteta.netlify.app/)
 
